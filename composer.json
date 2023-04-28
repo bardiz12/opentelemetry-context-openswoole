@@ -1,5 +1,5 @@
 {
-  "name": "bardiz12/opentelemetry-context-swoole",
+  "name": "bardiz12/opentelemetry-context-openswoole",
   "description": "Async Swoole/OpenSwoole context implementation for OpenTelemetry PHP.",
   "keywords": ["opentelemetry", "otel", "contrib", "context", "swoole", "openswoole", "coroutine"],
   "type": "library",
