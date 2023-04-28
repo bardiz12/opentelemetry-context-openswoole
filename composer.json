@@ -14,7 +14,7 @@
   "prefer-stable": true,
   "require": {
     "php": "^7.4 || ^8.0",
-    "open-telemetry/context": "^1.0"
+    "open-telemetry/context": "^1.0|1.0.0beta1|1.0.0beta2"
   },
   "autoload": {
     "psr-4": {
